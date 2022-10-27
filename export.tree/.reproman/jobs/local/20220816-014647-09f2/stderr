@@ -1,0 +1,8 @@
+WARNING (08/16/22 19:32:54): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4728412.hostlist.gHhuN5pk to get hosts
+starting job on c182-082
+starting job on c183-071
+starting job on c190-033
+Warning: Permanently added 'c183-071' (ED25519) to the list of known hosts.
+Warning: Permanently added 'c182-082' (ED25519) to the list of known hosts.
+slurmstepd: error: *** JOB 4728412 ON c182-082 CANCELLED AT 2022-08-17T01:18:46 ***
